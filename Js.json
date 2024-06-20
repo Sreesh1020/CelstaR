@@ -1,0 +1,64 @@
+
+{
+  "@context": "https://www.sellsta.net/",
+  "@type": "LocalBusiness",
+  "name": "Celsta-R",
+  "image": "https://lh3.googleusercontent.com/p/AF1QipOiNVrOV4vQisdY7dTthA7sIRG2nppB4zPC3j7y=s680-w680-h510",  
+  "description": "Explore a treasure trove of pop culture! Celsta-R in Akihabara offers a vast selection of pre-loved anime collectibles, retro video games, and manga. Discover rare finds and fuel your fandom!",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3 Chome-7-14 Sotokanda, Chiyoda City",
+    "addressLocality": "Akihabara",
+    "addressRegion": "Tokyo",
+    "postalCode": "101-0021",
+    "addressCountry": "JP"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 35.6895,  "longitude": 139.775 
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Tuesday",
+      "opens": "11:00:00",
+      "closes": "19:00:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Wednesday",
+      "opens": "11:00:00",
+      "closes": "19:00:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Thursday",
+      "opens": "11:00:00",
+      "closes": "19:00:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Friday",
+      "opens": "11:00:00",
+      "closes": "19:00:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "11:00:00",
+      "closes": "19:00:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "11:00:00",
+      "closes": "19:00:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Monday",
+      "opens": "Closed",
+      "closes": "Closed"
+    }
+  ]
+}
